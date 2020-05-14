@@ -1,0 +1,12 @@
+void test(int a) {}
+
+void main()
+{
+   int a;
+
+   test(3.0 * 5.6 - 1.0);
+   if (ReadInteger()) 1;
+   if (ReadLine()) 1;
+   if (a) 1;
+   test(4);
+}

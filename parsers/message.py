@@ -1,0 +1,1 @@
+SyntaxErr = "*** syntax error"

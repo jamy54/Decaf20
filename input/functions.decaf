@@ -1,0 +1,16 @@
+int a;
+
+
+int tester(int d) {
+  return (a + d);
+}
+
+void main() {
+  int a;
+  int c;
+
+  a = 3;
+
+  c = a + b;
+  Print(tester(c));
+}

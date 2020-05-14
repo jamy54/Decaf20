@@ -1,0 +1,23 @@
+
+*** Error line 7.
+   test(3.0 * 5.6 - 1.0);
+        ^^^^^^^^^^^^^^^
+*** Incompatible argument 1: double given, int expected
+
+
+*** Error line 8.
+   if (ReadInteger()) 1;
+       ^^^^^^^^^^^^^
+*** Test expression must have boolean type
+
+
+*** Error line 9.
+   if (ReadLine()) 1;
+       ^^^^^^^^^^
+*** Test expression must have boolean type
+
+
+*** Error line 10.
+   if (a) 1;
+       ^
+*** Test expression must have boolean type
